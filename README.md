@@ -1,6 +1,11 @@
-# CSE125 2017
-Link to our Website:
-http://cse125.ucsd.edu/2017/cse125g4/
+#WEBGL 3D Game Engine
+
+#Based on the CSE 125 Engine But Rewritten in Typescript
+To compile the type script into javascript simply run the following command
+with no arguments
+```
+tsc
+```
 
 ### Running Client Locally Without Server
 Within `scripts/engine/Debug.js` set:
